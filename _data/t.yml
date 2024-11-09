@@ -7,32 +7,32 @@ social-card: /assets/images/favicons/social-card.png
 
 ## Site name
 name:
-  en: "A Jekyll theme"
-  it: "Un tema Jekyll"
+  en: "Foggia's Monuments"
+  it: "Monumenti di Foggia"
 
 ## Site description
 description:
-  en: "A website with a Jekyll theme"
-  it: "Sito di esempio per il tema Jekyll"
+  en: "A website by Idee Per Foggia APS"
+  it: "Sito di Idee Per Foggia APS"
 
 ## Site author
 author:
-  en: "Digital Transformation Team"
-  it: "Team per la Trasformazione Digitale"
+  en: "Idee Per Foggia APS"
+  it: "Idee Per Foggia APS"
 
 ## Social
 social-links:
   en:
-    twitter:
-      name: "twitter"
-      url: "https://twitter.com/ITdigitalteam"
+    # twitter:
+    #   name: "twitter"
+    #   url: "https://twitter.com/ITdigitalteam"
     medium:
       name: "medium"
       url: "https://medium.com/team-per-la-trasformazione-digitale/"
   it:
-    twitter:
-      name: "twitter"
-      url: "https://twitter.com/teamdigitaleIT"
+    # twitter:
+    #   name: "twitter"
+    #   url: "https://twitter.com/teamdigitaleIT"
     medium:
       name: "medium"
       url: "https://medium.com/team-per-la-trasformazione-digitale/"
