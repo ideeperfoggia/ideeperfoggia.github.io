@@ -7,7 +7,7 @@ ref: homepage
 permalink: /
 order: 1
 card-title: Foggia
-card-description: Foggia è una Città del Meridione con una storia e tradizioni millenarie...
+card-text: Foggia è una Città del Meridione con una storia e tradizioni millenarie...
 ---
 
 {% include hero.html %}
