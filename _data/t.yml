@@ -26,15 +26,15 @@ social-links:
     # twitter:
     #   name: "twitter"
     #   url: "https://twitter.com/ITdigitalteam"
-    medium:
-      name: "medium"
+    instagram:
+      name: "instagram"
       url: "https://medium.com/team-per-la-trasformazione-digitale/"
   it:
     # twitter:
     #   name: "twitter"
     #   url: "https://twitter.com/teamdigitaleIT"
-    medium:
-      name: "medium"
+    instagram:
+      name: "instagram"
       url: "https://medium.com/team-per-la-trasformazione-digitale/"
 
 ## Labels
