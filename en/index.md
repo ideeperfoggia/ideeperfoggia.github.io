@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Example Homepage
-description: This is an example for a "hero" homepage
+title: Foggia's Monuments
+description: This is the homepage of Foggia's Monuments
 lang: en
 ref: homepage
 permalink: /en/
 order: 1
+card-title: Foggia
+card-description: Foggia is a City in Southern Italy with a rich history and millennia old traditions...
 ---
 
 {% include hero.html %}

@@ -50,6 +50,9 @@ cookie-policy-info:
 cookie-policy-accept-btn:
   en: "Ok"
   it: "Accetto"
+read-more:
+  en: "Read more"
+  it: "Leggi di più"
 footer-links:
   en:
     privacy-policy:
