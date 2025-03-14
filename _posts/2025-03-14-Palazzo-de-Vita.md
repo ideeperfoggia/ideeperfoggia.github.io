@@ -25,5 +25,5 @@ G. Arbore, *Storie di palazzi, in Saluti da Foggia. Guida della città*, Provinc
 Tommaso De Santis, Istoria* del tumulto di Napoli*, presso la stamperia di Giovanni Gravier, Napoli, 1770, p. 317, in *Raccolta di tutti i più rinomati Scrittori dell’Istoria generale del Regno di Napoli*, presso la stamperia di Giovanni Gravier, vol. VII, Napoli, 1779.
 
 
-[^1]: Cfr. C. de Leo, Palazzi e famiglie dell’antica Foggia, Consorzio costruttori di Foggia, 1996, Foggia.
-[^2]: Tommaso De Santis, Istoria del tumulto di Napoli, presso la stamperia di Giovanni Gravier, Napoli, 1770, p. 317, in Raccolta di tutti i più rinomati Scrittori dell’Istoria generale del Regno di Napoli, presso la stamperia di Giovanni Gravier, vol. VII, Napoli, 1779. Palazzo De Vita era, allora, la casa di Annibale De Majo.
+[^1]: Cfr. C. de Leo, *Palazzi e famiglie dell’antica Foggia*, Consorzio costruttori di Foggia, 1996, Foggia.
+[^2]: Tommaso De Santis, *Istoria del tumulto di Napoli*, presso la stamperia di Giovanni Gravier, Napoli, 1770, p. 317, in *Raccolta di tutti i più rinomati Scrittori dell’Istoria generale del Regno di Napoli*, presso la stamperia di Giovanni Gravier, vol. VII, Napoli, 1779. Palazzo De Vita era, allora, la casa di Annibale De Majo.
