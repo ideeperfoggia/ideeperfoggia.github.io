@@ -29,7 +29,7 @@ Un disegno della città di Foggia, risalente al secolo XVI e conservato oggi nel
 
 <figure>
     <img src="/assets/images/palazzo-de-vita/1.png"
-         alt="eduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma, particolare."
+         alt="Veduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma, particolare."
          width="75%"
          height="75%">
     <figcaption>eduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma, particolare.</figcaption>
