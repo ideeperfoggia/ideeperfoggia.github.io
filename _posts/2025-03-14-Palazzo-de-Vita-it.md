@@ -3,7 +3,7 @@ layout: post
 title: Palazzo De Vita
 lang: it
 ref: palazzo-de-vita
-permalink: /palazzi/palazzo-de-vita/
+permalink: /palazzi/palazzo-de-vita/it/
 categories: [palazzi]
 tags: [palazzi, foggia, centro storico]
 ---
