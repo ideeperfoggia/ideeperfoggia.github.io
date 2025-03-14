@@ -19,11 +19,21 @@ Tommaso De Santis scrive in Istoria del tumulto di Napoli, opera pubblicata a Na
 
 Un disegno della città di Foggia, risalente al secolo XVI e conservato oggi nella Biblioteca Angelica di Roma, non sembra ancora mostrare il nostro Palazzo. Nella mappa, l'autore, anonimo, si preoccupa di segnalare le dimore patrizie e i luoghi di culto; nella zona in cui sorgerà il Palazzo, nel 1545, si vedono solo modeste abitazioni popolari con tetti a spina e tre edifici più rilevanti, dotati di cortile interno; tuttavia, questi non vengono in alcun modo indicati come residenze patrizie.
 
-![Veduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma.](/assets/images/palazzo-de-vita/0.png)\
-*Veduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma.*
+<figure>
+    <img src="/assets/images/palazzo-de-vita/0.png"
+         alt="Veduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma."
+         width="75%"
+         height="75%">
+    <figcaption>Veduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma.</figcaption>
+</figure>
 
-![Veduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma, particolare.](/assets/images/palazzo-de-vita/1.png)\
-*Veduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma, particolare.*
+<figure>
+    <img src="/assets/images/palazzo-de-vita/1.png"
+         alt="eduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma, particolare."
+         width="75%"
+         height="75%">
+    <figcaption>eduta di Foggia, secolo XVI, anonimo, carta conservata presso la Biblioteca Angelica di Roma, particolare.</figcaption>
+</figure>
 
 #### *Bibliografia*
 
